@@ -34,6 +34,7 @@ public class MathUtilDDTTest {
                                     {4, 24},
                                     {5, 120},            
         };  
+        
     }
     //giả sử loop qua từng dòng của mảng, ta vẫn cần gán từng value của cột
     //vào biến tương ứng input, expected để lát hồi feed cho hàm
